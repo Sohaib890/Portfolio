@@ -1,0 +1,108 @@
+*{
+    max-width: 1440;
+}
+.bar{
+    /* border: 2px solid #8e44ad; */
+    background-color: #be88d4;
+    color: white;
+    /* padding: 5px; */
+    width: 2.5rem;
+    height: 2.5rem;
+    position: relative;
+    right: 5px;
+    margin-bottom: 5rem;
+    display: block;
+    font-size: 1.4rem;
+    width: 3rem;
+}
+.drop{
+    /* display: block; */
+    position: absolute;
+
+}
+.user{
+    padding: 5px;
+    background-color: white;
+    color: #8e44ad;
+    display: block;
+    font-size: 1.4rem;
+    border: none;
+}
+.comment{
+    padding: 5px;
+    background-color: white;
+    display: block;
+    font-size: 1.4rem;
+    color: gray;
+    margin-top:1rem;
+    border: none;
+}
+.pen{
+    padding: 5px;
+    background-color: white;
+    display: block;
+    font-size: 1.4rem;
+    color: gray;
+    margin-top:1rem;
+    border: none;
+}
+.glasses{
+    padding: 5px;
+    background-color: white;
+    display: block;
+    font-size: 1.4rem;
+    color: gray;
+    margin-top:1rem;
+    border: none;
+}
+.bag{
+    padding: 5px;
+    background-color: white;
+    display: block;
+    font-size: 1.4rem;
+    color: gray;
+    margin-top:1rem;
+    border: none;
+}
+.arrow{
+    padding: 5px;
+    background-color: white;
+    display: block;
+    font-size: 1.4rem;
+    color: gray;
+    margin-top: 5rem;
+    border: none;
+} 
+button{
+    border: none;
+}
+.men{
+    display: inline-flex;  
+}
+img{
+    width: 20rem;
+    height: 40rem;
+    position: relative;
+    bottom: 2rem;
+    left: 4rem;
+    box-sizing: border-box;
+    box-shadow: 2px 4px 8px #c4c6c7;
+}
+.para-2{
+    position: relative;
+    left: 20rem;
+    bottom: 11.2rem;
+}
+.container{
+    padding: 0px;
+}
+.row{
+    background-color: white;
+    height: 38rem;
+    position: relative;
+    top: 3rem;
+    box-shadow: 2px 4px 8px 8px white;
+}
+body{
+    background-color: rgb(255, 227, 232);
+}
